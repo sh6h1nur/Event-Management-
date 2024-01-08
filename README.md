@@ -1,6 +1,3 @@
-![GitHub](https://img.shields.io/github/license/PuneethReddyHC/online-shopping-system-advanced)
-![](https://visitor-badge.glitch.me/badge?page_id=puneethreddyhc.event)
-
 <a href="https://www.buymeacoffee.com/PuneethReddyHC" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="195" height="55"></a>
 
 <h3>Things I code with</h3>
@@ -39,7 +36,6 @@
 	<li><b>React JS</b></li>
 	<li><b>AI/ML</b></li>
 </ul>
-<h2> Projects with installation support and code explaination for Premium contact phone: +919535688928 gmail: puneethreddy951@gmail.com or visit :<a href="http://www.projectswall.com/">Projects Wall</a></h2>
 
 # Event-site
 helps to register an users for on events conducted in college fests with simple logic with secured way
@@ -77,21 +73,3 @@ helps to register an users for on events conducted in college fests with simple 
 
 13. admin login details  Email=admin@gmail.com and Password=123456789.
 
-## If you like my project 
-Bye me Cup of coffee
-
-### Google pay or phonepay number 9535688928
-
-## visit my other repository with different admin pages with below link
-https://github.com/PuneethReddyHC/online-shopping-system-with-advanced-admin-page
-
-https://github.com/PuneethReddyHC/online-shopping-system-advanced
-
-## Screenshots
-![Image of adduser](https://github.com/PuneethReddyHC/event-management/blob/master/screenshots/home.png)
-![Image of adduser](https://github.com/PuneethReddyHC/event-management/blob/master/screenshots/events.png)
-![Image of adduser](https://github.com/PuneethReddyHC/event-management/blob/master/screenshots/about.png)
-![Image of adduser](https://github.com/PuneethReddyHC/event-management/blob/master/screenshots/events1.png)
-![Image of adduser](https://github.com/PuneethReddyHC/event-management/blob/master/screenshots/login.png)
-
-##  If you like my project hit a star button
